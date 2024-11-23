@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont";
-  src: url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.woff2") format('woff2'), url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.woff") format('woff'), url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.ttf") format('truetype');
+  src: url("//at.alicdn.com/t/c/font_4552607_tq6stt6tcg.woff2") format('woff2');
   font-display: swap;
 }
 .tag-wrap .archives-tag-list-link:before {
@@ -214,4 +214,8 @@
 .icon-creative-commons:before {
   font-family: "iconfont";
   content: "\e63a";
+}
+.icon-taichi:before {
+  font-family: "iconfont";
+  content: "\e62b";
 }

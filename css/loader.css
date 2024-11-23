@@ -27,7 +27,7 @@
   transition: 0.5s;
 }
 #loader .spinner-box .loading-taichi {
-  opacity: 0.65;
+  opacity: 0.8;
   animation: rotate-all 2s linear infinite;
 }
 #loader .spinner-box .loading-word {
